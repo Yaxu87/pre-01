@@ -39,7 +39,7 @@ C#
 unity,blender
 
 その他開発に使用したツール・サービス
-miro(案出し)、toonsquid(アニメーション作成)
+miro(案出し)、canva(アニメーション作成), procreate(イラスト作成)
 
 ソースコードはここにあります。
 https://github.com/Fujimaki666/bakage-
